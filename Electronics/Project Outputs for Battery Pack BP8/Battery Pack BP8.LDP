@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Documents\Battery Pack BP8\Battery Pack BP8.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=battery pack bp8-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=battery pack bp8-slotholes.txt|DrillLayers=gtl,gbl
